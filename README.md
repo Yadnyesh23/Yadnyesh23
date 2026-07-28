@@ -1,7 +1,7 @@
 # Hello , I'm Yadnyesh Halde
 
 #  About Me:
-I am 3rd year AI & Data Science Student<br>AI & Full Stack Developer<br>Checkout my portfolio :-https://www.haldeyadnyesh.in/<br>Currently deep diving into System design
+I am 3rd year AI & Data Science Student<br>AI & Full Stack Developer<br>Checkout my portfolio :-https://www.haldeyadnyesh.in/<br>Currently deep diving into System design <br> Latest project :- https://teslearn.haldeyadnyesh.in/
 
 
 ## 🌐 Socials:
